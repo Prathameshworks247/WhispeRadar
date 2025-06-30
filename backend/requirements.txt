@@ -1,0 +1,32 @@
+# FastAPI web server
+fastapi
+uvicorn
+
+# Data parsing
+requests
+python-dotenv
+newspaper3k
+
+# CORS middleware
+starlette
+
+# NLP
+nltk
+spacy
+
+# LangChain & LLM integrations
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-google-genai
+langchain-ollama
+huggingface-hub
+# Sentence transformer for embeddings
+sentence-transformers
+
+# FAISS for vector store
+faiss-cpu
+
+# Pydantic for request parsing
+pydantic

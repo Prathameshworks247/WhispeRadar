@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "News Fact Checker",
+  "version": "1.0",
+  "description": "Checks whether selected news is true or not using a backend RAG system.",
+  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
