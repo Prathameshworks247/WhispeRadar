@@ -1,4 +1,4 @@
-# D-CODE-RED: AI-Powered News Analysis & Fact-Checking Platform
+#WhispeRadar: AI-Powered News Analysis & Fact-Checking Platform
 
 A comprehensive web application that combines multiple AI services to analyze news content, detect fake news, analyze emotions, and provide fact-checking capabilities. The platform includes a browser extension for real-time news verification.
 
